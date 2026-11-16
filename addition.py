@@ -1,1 +1,1 @@
-num1,num2 = input("Enter two numbers separated by a space: ").split()
+ echo'num1,num2 = input("Enter two numbers seperated by a space:").split()'>addition.py
